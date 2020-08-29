@@ -1,0 +1,2786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV Justiça">
+    <display-name lang="pt">TV Justiça</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Senado">
+    <display-name lang="pt">TV Senado</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Câmara">
+    <display-name lang="pt">TV Câmara</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Escola">
+    <display-name lang="pt">TV Escola</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Brasil">
+    <display-name lang="pt">TV Brasil</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="NBR">
+    <display-name lang="pt">NBR</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="IDEAL TV">
+    <display-name lang="pt">IDEAL TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RIT">
+    <display-name lang="pt">RIT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Rede Brasil">
+    <display-name lang="pt">Rede Brasil</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Rede CNT">
+    <display-name lang="pt">Rede CNT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RBI TV">
+    <display-name lang="pt">RBI TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Rede Vida">
+    <display-name lang="pt">Rede Vida</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Aparecida">
+    <display-name lang="pt">Aparecida</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Canção Nova">
+    <display-name lang="pt">Canção Nova</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Rede TV">
+    <display-name lang="pt">Rede TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RECORD">
+    <display-name lang="pt">RECORD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BAND">
+    <display-name lang="pt">BAND</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Cultura">
+    <display-name lang="pt">TV Cultura</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Polishop">
+    <display-name lang="pt">Polishop</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="OFF">
+    <display-name lang="pt">OFF</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Sportv 3">
+    <display-name lang="pt">Sportv 3</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Sportv 2">
+    <display-name lang="pt">Sportv 2</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SporTV">
+    <display-name lang="pt">SporTV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GloboNews">
+    <display-name lang="pt">GloboNews</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GNT">
+    <display-name lang="pt">GNT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Multishow">
+    <display-name lang="pt">Multishow</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Canal Viva">
+    <display-name lang="pt">Canal Viva</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="+ GLOBOSAT">
+    <display-name lang="pt">+ GLOBOSAT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="pt">E!</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Fox Life">
+    <display-name lang="pt">Fox Life</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health">
+    <display-name lang="pt">Discovery Home &amp; Health</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Curta!">
+    <display-name lang="pt">Curta!</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TruTV">
+    <display-name lang="pt">TruTV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="WooHoo">
+    <display-name lang="pt">WooHoo</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil">
+    <display-name lang="pt">ESPN Brasil</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN +">
+    <display-name lang="pt">ESPN +</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Fox Sports">
+    <display-name lang="pt">Fox Sports</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="pt">Fox Sports 2</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Band Sports">
+    <display-name lang="pt">Band Sports</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Band News">
+    <display-name lang="pt">Band News</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="pt">National Geographic</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="The History Channel">
+    <display-name lang="pt">The History Channel</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="pt">Discovery Turbo</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Futura">
+    <display-name lang="pt">Futura</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="pt">H2</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="pt">Discovery Kids</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Gloob">
+    <display-name lang="pt">Gloob</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Disney">
+    <display-name lang="pt">Disney</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="pt">Disney XD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Disney Júnior">
+    <display-name lang="pt">Disney Júnior</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="pt">Nick Jr.</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Rá Tim Bum">
+    <display-name lang="pt">TV Rá Tim Bum</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TOONCAST">
+    <display-name lang="pt">TOONCAST</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BIS">
+    <display-name lang="pt">BIS</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MTV ">
+    <display-name lang="pt">MTV </display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Play TV">
+    <display-name lang="pt">Play TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Music Box Brazil">
+    <display-name lang="pt">Music Box Brazil</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Universal Channel">
+    <display-name lang="pt">Universal Channel</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name lang="pt">Warner Channel</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="pt">Sony</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="pt">TBS</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ID - Investigação Discovery">
+    <display-name lang="pt">ID - Investigação Discovery</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SyFy">
+    <display-name lang="pt">SyFy</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="iSat">
+    <display-name lang="pt">iSat</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Canal Brasil">
+    <display-name lang="pt">Canal Brasil</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="pt">Space</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Prime Box Brazil">
+    <display-name lang="pt">Prime Box Brazil</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="pt">Studio Universal</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Paramount">
+    <display-name lang="pt">Paramount</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="pt">TCM</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Plus">
+    <display-name lang="pt">HBO Plus</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Plus *e">
+    <display-name lang="pt">HBO Plus *e</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="pt">HBO Signature</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Max">
+    <display-name lang="pt">Max</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Max Prime">
+    <display-name lang="pt">Max Prime</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Max Prime *e">
+    <display-name lang="pt">Max Prime *e</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Terra Viva">
+    <display-name lang="pt">Terra Viva</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Canal Rural">
+    <display-name lang="pt">Canal Rural</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Boa Vontade TV">
+    <display-name lang="pt">Boa Vontade TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="CNN Internacional">
+    <display-name lang="pt">CNN Internacional</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RAI">
+    <display-name lang="pt">RAI</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name lang="pt">TV5 Monde</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Deutsche Welle">
+    <display-name lang="pt">Deutsche Welle</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="NHK PREMIUM">
+    <display-name lang="pt">NHK PREMIUM</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="CNN ESPANÕL">
+    <display-name lang="pt">CNN ESPANÕL</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Premiere Clubes">
+    <display-name lang="pt">Premiere Clubes</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Combate">
+    <display-name lang="pt">Combate</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Playboy TV">
+    <display-name lang="pt">Playboy TV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Sexy Hot">
+    <display-name lang="pt">Sexy Hot</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="OFF HD">
+    <display-name lang="pt">OFF HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Sportv 2 HD">
+    <display-name lang="pt">Sportv 2 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Sportv HD">
+    <display-name lang="pt">Sportv HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GNT HD">
+    <display-name lang="pt">GNT HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Multishow HD">
+    <display-name lang="pt">Multishow HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GLOBOSAT HD">
+    <display-name lang="pt">GLOBOSAT HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TLC HD">
+    <display-name lang="pt">TLC HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health HD">
+    <display-name lang="pt">Discovery Home &amp; Health HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Band Sports HD">
+    <display-name lang="pt">Band Sports HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pt">Discovery Channel HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="The History Channel HD">
+    <display-name lang="pt">The History Channel HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Turbo HD">
+    <display-name lang="pt">Discovery Turbo HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="pt">Nat Geo Wild HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISCOVERY THEATER HD">
+    <display-name lang="pt">DISCOVERY THEATER HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Kids HD">
+    <display-name lang="pt">Discovery Kids HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Gloob HD">
+    <display-name lang="pt">Gloob HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Disney HD">
+    <display-name lang="pt">Disney HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BIS HD">
+    <display-name lang="pt">BIS HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Universal Channel HD">
+    <display-name lang="pt">Universal Channel HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Warner HD">
+    <display-name lang="pt">Warner HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Sony HD">
+    <display-name lang="pt">Sony HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Megapix HD">
+    <display-name lang="pt">Megapix HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="pt">Space HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Paramount HD">
+    <display-name lang="pt">Paramount HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Premium HD">
+    <display-name lang="pt">Telecine Premium HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Action HD">
+    <display-name lang="pt">Telecine Action HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Touch HD">
+    <display-name lang="pt">Telecine Touch HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Fun HD">
+    <display-name lang="pt">Telecine Fun HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca HD">
+    <display-name lang="pt">Telecine Pipoca HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO2 HD">
+    <display-name lang="pt">HBO2 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Plus HD">
+    <display-name lang="pt">HBO Plus HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Signature HD">
+    <display-name lang="pt">HBO Signature HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20190128045700 -0200" stop="20190128053300 -0200" channel="NBR">
+    <title lang="pt">Dia de Campo na TV: Semiárido Show Vitrine de Tecnologias</title>
+    <desc lang="pt">O programa mostra o Semiárido Show, uma verdadeira vitrine de tecnologias e inovação para a agricultura familiar(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128053300 -0200" stop="20190128060000 -0200" channel="NBR">
+    <title lang="pt">Saiba Mais: Glicogenose - Elisa de Carvalho, Gastroenterologista</title>
+    <desc lang="pt">A glicogenose é a chamada doença do armazenamento de glicogênio e afeta o processamento dessa substância ou sua quebra nos músculos e no fígado. Saiba Mais destaca os sintomas e os tratamentos dessa doença genética rara(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128060000 -0200" stop="20190128063000 -0200" channel="NBR">
+    <title lang="pt">Em Família: Vivendo com Doença Crônica</title>
+    <desc lang="pt">Neste episódio é abordada a vivência com doenças crônicas e a importância da família na vida do ente querido portador da doença(n)</desc>
+    <credits>
+      <director>Rafael Figueiredo</director>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128063000 -0200" stop="20190128070000 -0200" channel="NBR">
+    <title lang="pt">Ligado em Saúde: Fissura Labiopalatal</title>
+    <desc lang="pt">Neste episódio é falado sobre a fissura labiopalatal, uma má formação que prejudica a fala, a alimentação e a dentição(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128070000 -0200" stop="20190128073000 -0200" channel="NBR">
+    <title lang="pt">Meio Ambiente por Inteiro: Bambu</title>
+    <desc lang="pt">O programa Meio Ambiente por Inteiro traz como tema o bambu, da família das gramíneas. Atualmente, o bambu é visto em diversas partes do mundo também como alternativa na preservação do meio ambiente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128073000 -0200" stop="20190128080400 -0200" channel="NBR">
+    <title lang="pt">Repórter Justiça: Trabalho Perito</title>
+    <desc lang="pt">Balística, exame de DNA e confirmação de drogas são algumas atribuições de um perito. No Repórter Justiça você vai saber como é o trabalho do perito criminal(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128080400 -0200" stop="20190128081500 -0200" channel="NBR">
+    <title lang="pt">Boletim da Saúde</title>
+    <desc lang="pt">Boletim informativo sobre a saúde, co-produzido pelo Ministério da Saúde e NBR(n)</desc>
+    <date>2014</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128081500 -0200" stop="20190128084500 -0200" channel="NBR">
+    <title lang="pt">Hora do Enem</title>
+    <desc lang="pt">Dicas, entrevistas, resoluções comentadas de questões que já caíram nos anos anteriores e conteúdo produzido por quem mais entende do Enem para ajudar os alunos a se prepararem para a prova(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128084500 -0200" stop="20190128091500 -0200" channel="NBR">
+    <title lang="pt">Saiba Mais: Glicogenose - Elisa de Carvalho, Gastroenterologista</title>
+    <desc lang="pt">A glicogenose é a chamada doença do armazenamento de glicogênio e afeta o processamento dessa substância ou sua quebra nos músculos e no fígado. Saiba Mais destaca os sintomas e os tratamentos dessa doença genética rara(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128091500 -0200" stop="20190128094500 -0200" channel="NBR">
+    <title lang="pt">Conexão Eleitoral</title>
+    <desc lang="pt">O programa leva até você as principais informações sobre as eleições gerais deste ano(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128094500 -0200" stop="20190128095000 -0200" channel="NBR">
+    <title lang="pt">Fique por Dentro</title>
+    <desc lang="pt">Os principais assuntos da pauta de trabalho do Governo Federal e de interesse da população brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128095000 -0200" stop="20190128095500 -0200" channel="NBR">
+    <title lang="pt">Ninguém Nasce Campeão: Adriana Araújo e Robson</title>
+    <desc lang="pt">Medalhistas olímpicos no boxe, Adriana Araújo e Robson Conceição recordam as dificuldades que marcaram o início de suas carreiras e os obstáculos que precisaram vencer para chegar a posições de destaque no esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128095500 -0200" stop="20190128100000 -0200" channel="NBR">
+    <title lang="pt">Ninguém Nasce Campeão: Alisson e Bruno</title>
+    <desc lang="pt">Alison e Bruno, medalhistas de ouro nos Jogos Rio 2016, resgatam momentos do início da carreira, um tempo em que as dificuldades e percalços eram muito mais intensos do que a glória e os pódios(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128100000 -0200" stop="20190128100500 -0200" channel="NBR">
+    <title lang="pt">Fique por Dentro</title>
+    <desc lang="pt">Os principais assuntos da pauta de trabalho do Governo Federal e de interesse da população brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128100500 -0200" stop="20190128101500 -0200" channel="NBR">
+    <title lang="pt">Boletim da Saúde</title>
+    <desc lang="pt">Boletim informativo sobre a saúde, co-produzido pelo Ministério da Saúde e NBR(n)</desc>
+    <date>2014</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128101500 -0200" stop="20190128103000 -0200" channel="NBR">
+    <title lang="pt">Repórter NBR: Atividades do Governo</title>
+    <desc lang="pt">Reapresentação dos eventos com a participação de autoridades do Governo Federal, que foram destaque na semana(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128103000 -0200" stop="20190128103500 -0200" channel="NBR">
+    <title lang="pt">Fique por Dentro</title>
+    <desc lang="pt">Os principais assuntos da pauta de trabalho do Governo Federal e de interesse da população brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128103500 -0200" stop="20190128110000 -0200" channel="NBR">
+    <title lang="pt">Repórter NBR: Atividades do Governo</title>
+    <desc lang="pt">Reapresentação dos eventos com a participação de autoridades do Governo Federal, que foram destaque na semana(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128110000 -0200" stop="20190128111200 -0200" channel="NBR">
+    <title lang="pt">Repórter NBR</title>
+    <desc lang="pt">Boletim jornalístico com as últimas notícias do governo federal e da Presidência da República(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128111200 -0200" stop="20190128114500 -0200" channel="NBR">
+    <title lang="pt">Repórter Justiça: Trabalho Perito</title>
+    <desc lang="pt">Balística, exame de DNA e confirmação de drogas são algumas atribuições de um perito. No Repórter Justiça você vai saber como é o trabalho do perito criminal(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128114500 -0200" stop="20190128120000 -0200" channel="NBR">
+    <title lang="pt">É da sua Conta: Banco Central</title>
+    <desc lang="pt">O BACEN é o órgão responsável pela execução das normas que regulam o SFN. Educação Financeira para melhor entendimento do cidadão(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128120000 -0200" stop="20190128123000 -0200" channel="NBR">
+    <title lang="pt">Conexão Eleitoral</title>
+    <desc lang="pt">O programa leva até você as principais informações sobre as eleições gerais deste ano(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128123000 -0200" stop="20190128130000 -0200" channel="NBR">
+    <title lang="pt">NBR Entrevista: Inovação na Educação - Raphael Callou,</title>
+    <desc lang="pt">No programa vamos mostrar como educadores inovam na forma de dar aula utilizando as tecnologias da informação e a criatividade com projetos educacionais(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128130000 -0200" stop="20190128133000 -0200" channel="NBR">
+    <title lang="pt">Olhar Independente: A Arte Circense</title>
+    <desc lang="pt">O programa recebe a realizada Babi Baracho, que fala sobre seu filme Família Tropa Trupe, o circo enquanto vida(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128133000 -0200" stop="20190128140000 -0200" channel="NBR">
+    <title lang="pt">Hora do Enem</title>
+    <desc lang="pt">Dicas, entrevistas, resoluções comentadas de questões que já caíram nos anos anteriores e conteúdo produzido por quem mais entende do Enem para ajudar os alunos a se prepararem para a prova(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128140000 -0200" stop="20190128143000 -0200" channel="NBR">
+    <title lang="pt">Repórter NBR: Atividades do Governo</title>
+    <desc lang="pt">Reapresentação dos eventos com a participação de autoridades do Governo Federal, que foram destaque na semana(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128143000 -0200" stop="20190128143500 -0200" channel="NBR">
+    <title lang="pt">Fique por Dentro</title>
+    <desc lang="pt">Os principais assuntos da pauta de trabalho do Governo Federal e de interesse da população brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128143500 -0200" stop="20190128150000 -0200" channel="NBR">
+    <title lang="pt">Repórter NBR: Atividades do Governo</title>
+    <desc lang="pt">Reapresentação dos eventos com a participação de autoridades do Governo Federal, que foram destaque na semana(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128150000 -0200" stop="20190128151500 -0200" channel="NBR">
+    <title lang="pt">Repórter NBR</title>
+    <desc lang="pt">Boletim jornalístico com as últimas notícias do governo federal e da Presidência da República(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128151500 -0200" stop="20190128154500 -0200" channel="NBR">
+    <title lang="pt">Conexão Eleitoral</title>
+    <desc lang="pt">O programa leva até você as principais informações sobre as eleições gerais deste ano(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128154500 -0200" stop="20190128155000 -0200" channel="NBR">
+    <title lang="pt">Fique por Dentro</title>
+    <desc lang="pt">Os principais assuntos da pauta de trabalho do Governo Federal e de interesse da população brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128155000 -0200" stop="20190128155500 -0200" channel="NBR">
+    <title lang="pt">Ninguém Nasce Campeão: Adriana Araújo e Robson</title>
+    <desc lang="pt">Medalhistas olímpicos no boxe, Adriana Araújo e Robson Conceição recordam as dificuldades que marcaram o início de suas carreiras e os obstáculos que precisaram vencer para chegar a posições de destaque no esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128155500 -0200" stop="20190128160000 -0200" channel="NBR">
+    <title lang="pt">Ninguém Nasce Campeão: Alisson e Bruno</title>
+    <desc lang="pt">Alison e Bruno, medalhistas de ouro nos Jogos Rio 2016, resgatam momentos do início da carreira, um tempo em que as dificuldades e percalços eram muito mais intensos do que a glória e os pódios(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128160000 -0200" stop="20190128160500 -0200" channel="NBR">
+    <title lang="pt">Fique por Dentro</title>
+    <desc lang="pt">Os principais assuntos da pauta de trabalho do Governo Federal e de interesse da população brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128160500 -0200" stop="20190128161500 -0200" channel="NBR">
+    <title lang="pt">Boletim da Saúde</title>
+    <desc lang="pt">Boletim informativo sobre a saúde, co-produzido pelo Ministério da Saúde e NBR(n)</desc>
+    <date>2014</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128161500 -0200" stop="20190128164500 -0200" channel="NBR">
+    <title lang="pt">Hora do Enem</title>
+    <desc lang="pt">Dicas, entrevistas, resoluções comentadas de questões que já caíram nos anos anteriores e conteúdo produzido por quem mais entende do Enem para ajudar os alunos a se prepararem para a prova(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128164500 -0200" stop="20190128170000 -0200" channel="NBR">
+    <title lang="pt">É da sua Conta: Banco Central</title>
+    <desc lang="pt">O BACEN é o órgão responsável pela execução das normas que regulam o SFN. Educação Financeira para melhor entendimento do cidadão(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128170000 -0200" stop="20190128171500 -0200" channel="NBR">
+    <title lang="pt">Repórter NBR</title>
+    <desc lang="pt">Boletim jornalístico com as últimas notícias do governo federal e da Presidência da República(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128171500 -0200" stop="20190128174500 -0200" channel="NBR">
+    <title lang="pt">Saiba Mais: Cuidados Com a Pele No Verão - Simone Karst, Médica</title>
+    <desc lang="pt">Saiba+ esclarece as principais dúvidas com relação aos danos não só do sol, mas da água do mar e piscinas na pele humana. Perguntaremos sobre as consequências na saúde, a longo prazo, para aqueles que não protegem a pele(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128174500 -0200" stop="20190128175000 -0200" channel="NBR">
+    <title lang="pt">Fique por Dentro</title>
+    <desc lang="pt">Os principais assuntos da pauta de trabalho do Governo Federal e de interesse da população brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128175000 -0200" stop="20190128175500 -0200" channel="NBR">
+    <title lang="pt">Ninguém Nasce Campeão: Adriana Araújo e Robson</title>
+    <desc lang="pt">Medalhistas olímpicos no boxe, Adriana Araújo e Robson Conceição recordam as dificuldades que marcaram o início de suas carreiras e os obstáculos que precisaram vencer para chegar a posições de destaque no esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128175500 -0200" stop="20190128180000 -0200" channel="NBR">
+    <title lang="pt">Ninguém Nasce Campeão: Alisson e Bruno</title>
+    <desc lang="pt">Alison e Bruno, medalhistas de ouro nos Jogos Rio 2016, resgatam momentos do início da carreira, um tempo em que as dificuldades e percalços eram muito mais intensos do que a glória e os pódios(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128180000 -0200" stop="20190128180500 -0200" channel="NBR">
+    <title lang="pt">Fique por Dentro</title>
+    <desc lang="pt">Os principais assuntos da pauta de trabalho do Governo Federal e de interesse da população brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128180500 -0200" stop="20190128181500 -0200" channel="NBR">
+    <title lang="pt">Boletim da Saúde</title>
+    <desc lang="pt">Boletim informativo sobre a saúde, co-produzido pelo Ministério da Saúde e NBR(n)</desc>
+    <date>2014</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128181500 -0200" stop="20190128184500 -0200" channel="NBR">
+    <title lang="pt">Conhecendo Museus: Museu do Ouro</title>
+    <desc lang="pt">O Museu do Ouro mostra a origem de Sabará, que se deu com a descoberta do ouro na região(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128184500 -0200" stop="20190128190000 -0200" channel="NBR">
+    <title lang="pt">É da sua Conta: Banco Central</title>
+    <desc lang="pt">O BACEN é o órgão responsável pela execução das normas que regulam o SFN. Educação Financeira para melhor entendimento do cidadão(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128190000 -0200" stop="20190128191500 -0200" channel="NBR">
+    <title lang="pt">Repórter NBR</title>
+    <desc lang="pt">Boletim jornalístico com as últimas notícias do governo federal e da Presidência da República(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128191500 -0200" stop="20190128192000 -0200" channel="NBR">
+    <title lang="pt">Ninguém Nasce Campeão: Adriana Araújo e Robson</title>
+    <desc lang="pt">Medalhistas olímpicos no boxe, Adriana Araújo e Robson Conceição recordam as dificuldades que marcaram o início de suas carreiras e os obstáculos que precisaram vencer para chegar a posições de destaque no esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128192000 -0200" stop="20190128192500 -0200" channel="NBR">
+    <title lang="pt">Ninguém Nasce Campeão: Alisson e Bruno</title>
+    <desc lang="pt">Alison e Bruno, medalhistas de ouro nos Jogos Rio 2016, resgatam momentos do início da carreira, um tempo em que as dificuldades e percalços eram muito mais intensos do que a glória e os pódios(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128192500 -0200" stop="20190128193000 -0200" channel="NBR">
+    <title lang="pt">Fique por Dentro</title>
+    <desc lang="pt">Os principais assuntos da pauta de trabalho do Governo Federal e de interesse da população brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128193000 -0200" stop="20190128194200 -0200" channel="NBR">
+    <title lang="pt">Entre um Café, uma Prosa: Daúde</title>
+    <desc lang="pt">A entrevistada dessa edição do Entre um Café, uma Prosa é a cantora e compositora Daúde. Ficou conhecida por gravar, em 1997, versão de Pata Pata, de Miriam Makeba(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128194200 -0200" stop="20190128195100 -0200" channel="NBR">
+    <title lang="pt">Entre um Café, uma Prosa: Oswaldo Montenegro</title>
+    <desc lang="pt">Neste programa acompanhamos a turnê do cantor e músico Oswaldo Montenegro, que conta um pouco de sua história e o objetivo desta apresentação(n)</desc>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128195100 -0200" stop="20190128200000 -0200" channel="NBR">
+    <title lang="pt">Entre um Café, uma Prosa: Renato Teixeira</title>
+    <desc lang="pt">O apresentador do programa entrevista o cantor e compositor Renato Teixeira, que conta sobre suas influências e seu trabalho com a música caipira(n)</desc>
+    <date>2014</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128200000 -0200" stop="20190128203000 -0200" channel="NBR">
+    <title lang="pt">Hora do Enem</title>
+    <desc lang="pt">Dicas, entrevistas, resoluções comentadas de questões que já caíram nos anos anteriores e conteúdo produzido por quem mais entende do Enem para ajudar os alunos a se prepararem para a prova(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128203000 -0200" stop="20190128210000 -0200" channel="NBR">
+    <title lang="pt">Saiba Mais: Cuidados Com a Pele No Verão - Simone Karst, Médica</title>
+    <desc lang="pt">Saiba+ esclarece as principais dúvidas com relação aos danos não só do sol, mas da água do mar e piscinas na pele humana. Perguntaremos sobre as consequências na saúde, a longo prazo, para aqueles que não protegem a pele(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128210000 -0200" stop="20190128221000 -0200" channel="NBR">
+    <title lang="pt">Sempre um Papo: Mario Sergio Cortella e Gilberto Dimenstein</title>
+    <desc lang="pt">Mario Sergio Cortella e Gilberto Dimenstein refletem sobre a era da comunicação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128221000 -0200" stop="20190128230000 -0200" channel="NBR">
+    <title lang="pt">Repórter NBR: Atividades do Governo</title>
+    <desc lang="pt">Reapresentação dos eventos com a participação de autoridades do Governo Federal, que foram destaque na semana(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128000000 -0200" stop="20190128030000 -0200" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128030000 -0200" stop="20190128060000 -0200" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128060000 -0200" stop="20190128090000 -0200" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128090000 -0200" stop="20190128120000 -0200" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128120000 -0200" stop="20190128125000 -0200" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128125000 -0200" stop="20190128133000 -0200" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128133000 -0200" stop="20190128140000 -0200" channel="IDEAL TV">
+    <title lang="pt">Jornal Ideal</title>
+    <desc lang="pt">Notícias de empresas do Brasil e do mundo, notas de economia da semana e entrevistas com convidados. Com apresentação de Anita Paschkes, o Jornal Ideal também traz dicas culturais e um pouco de filosofia sobre nosso cotidiano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128140000 -0200" stop="20190128143000 -0200" channel="IDEAL TV">
+    <title lang="pt">Entre Formigas e Gafanhotos</title>
+    <desc lang="pt">O repórter Elcio Coronato entrevista empresários e profissionais que estão ganhando dinheiro com soluções sustentáveis. Enquanto isso, a apresentadora Darlene Menconi reúne especialistas para debater o tema do dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128143000 -0200" stop="20190128180000 -0200" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128180000 -0200" stop="20190128193000 -0200" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128193000 -0200" stop="20190128202000 -0200" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128202000 -0200" stop="20190128210000 -0200" channel="IDEAL TV">
+    <title lang="pt">Produção Independente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128000000 -0200" stop="20190128013000 -0200" channel="RIT">
+    <title lang="pt">Igreja da Graça no seu Lar - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128013000 -0200" stop="20190128020000 -0200" channel="RIT">
+    <title lang="pt">Especial: Missões</title>
+    <desc lang="pt">Acompanhar todas as campanhas missionárias e conhecer as cidades visitadas pela caravana de fé do Missionário R.R. Soares, já imaginou? Pois é isso mesmo que o programa Especial Missões faz por você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128020000 -0200" stop="20190128033000 -0200" channel="RIT">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">O objetivo do Show da Fé é levar o Evangelho de Jesus Cristo aos quatro cantos do mundo. Sustentado pela fé e contribuição dos patrocinadores, o programa dá frutos diariamente(n)</desc>
+    <credits>
+      <director>R. R. Soares</director>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128033000 -0200" stop="20190128050000 -0200" channel="RIT">
+    <title lang="pt">Igreja da Graça no seu Lar - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128050000 -0200" stop="20190128073000 -0200" channel="RIT">
+    <title lang="pt">Fala, Amigo Noturno</title>
+    <desc lang="pt">Agora, também, às 20h00, venha receber o alimento da alma no programa Fala, Amigo Noturno(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128073000 -0200" stop="20190128080000 -0200" channel="RIT">
+    <title lang="pt">Jornal das 8h30 - Ao Vivo</title>
+    <desc lang="pt">Telejornal com 30 minutos de duração(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128080000 -0200" stop="20190128080500 -0200" channel="RIT">
+    <title lang="pt">Semeando a Fé</title>
+    <desc lang="pt">Aprenda a desfrutar das bênçãos de Deus. Todos os dias, antes do início de cada programa exibido na Rit, assista Semeando a Fé com o Missionário R.R.Soares(n)</desc>
+    <credits>
+      <actor>Missionário R.R.Soares</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128080500 -0200" stop="20190128090000 -0200" channel="RIT">
+    <title lang="pt">Zig-Zag Show</title>
+    <desc lang="pt">Brincadeiras, músicas, educação e muitas risadas, são os ingredientes de sucesso desse programa infantil. Se você pai procura um programa de televisão para seu filho, pode parar de pesquisar, você já achou(n)</desc>
+    <credits>
+      <director>Nilson Teréncio</director>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128090000 -0200" stop="20190128091000 -0200" channel="RIT">
+    <title lang="pt">Jornal Das 10h00 - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo você acompanha aqui na RIT. Todos os dias de hora em hora(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128091000 -0200" stop="20190128091500 -0200" channel="RIT">
+    <title lang="pt">Semeando a Fé</title>
+    <desc lang="pt">Aprenda a desfrutar das bênçãos de Deus. Todos os dias, antes do início de cada programa exibido na Rit, assista Semeando a Fé com o Missionário R.R.Soares(n)</desc>
+    <credits>
+      <actor>Missionário R.R.Soares</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128091500 -0200" stop="20190128100000 -0200" channel="RIT">
+    <title lang="pt">Hummm Saboroso</title>
+    <desc lang="pt">Um programa de culinária que une o prazer de cozinhar com a necessidade de lucrar, pois além de ensinar receitas deliciosas, também ajuda você a aumentar sua renda familiar com receitas que podem ser comercializadas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128100000 -0200" stop="20190128101000 -0200" channel="RIT">
+    <title lang="pt">Jornal das 11h00 - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo você acompanha aqui na RIT. Todos os dias de hora em hora(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128101000 -0200" stop="20190128101500 -0200" channel="RIT">
+    <title lang="pt">Semeando a Fé</title>
+    <desc lang="pt">Aprenda a desfrutar das bênçãos de Deus. Todos os dias, antes do início de cada programa exibido na Rit, assista Semeando a Fé com o Missionário R.R.Soares(n)</desc>
+    <credits>
+      <actor>Missionário R.R.Soares</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128101500 -0200" stop="20190128105000 -0200" channel="RIT">
+    <title lang="pt">Clip RIT</title>
+    <desc lang="pt">O programa exibe clipes gospel nacional e internacional e, no programa os telespectadores escolhem os clipes que desejam ver, interagindo via e-mail e redes sociais(n)</desc>
+    <credits>
+      <director>Nilson Teréncio</director>
+      <actor>Fabiano Mota</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128105000 -0200" stop="20190128110000 -0200" channel="RIT">
+    <title lang="pt">Recado do Coração de Deus</title>
+    <desc lang="pt">Recado do Coração de Deus(n)</desc>
+    <credits>
+      <director>Andréa Rocha</director>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128110000 -0200" stop="20190128120000 -0200" channel="RIT">
+    <title lang="pt">Fala, Amigo</title>
+    <desc lang="pt">Ao meio-dia, venha receber o alimento da alma no programa FALA, AMIGO Na hora do almoço, de segunda a sexta-feira, o Missionário R. R. Soares conversa com o público de forma descontraída(n)</desc>
+    <credits>
+      <actor>Missionário R.r Soares</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128120000 -0200" stop="20190128123000 -0200" channel="RIT">
+    <title lang="pt">Jornal das 13h00 - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo você acompanha aqui na RIT. Todos os dias de hora em hora(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128123000 -0200" stop="20190128130000 -0200" channel="RIT">
+    <title lang="pt">Rit Esportes</title>
+    <desc lang="pt">Foi gol? Estava impedido? Quem foi o craque da rodada? Para você não ficar de fora da discussão do dia seguinte, Rit esportes debate tudo o que foi notícia no mundo dos esportes. Apresentação: Anderson Cheni e Rogério Voltan(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128130000 -0200" stop="20190128130500 -0200" channel="RIT">
+    <title lang="pt">Semeando a Fé</title>
+    <desc lang="pt">Aprenda a desfrutar das bênçãos de Deus. Todos os dias, antes do início de cada programa exibido na Rit, assista Semeando a Fé com o Missionário R.R.Soares(n)</desc>
+    <credits>
+      <actor>Missionário R.R.Soares</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128130500 -0200" stop="20190128143000 -0200" channel="RIT">
+    <title lang="pt">Nosso Programa</title>
+    <desc lang="pt">Nosso programa: informação, curiosidades, bate-papo e muito mais, tudo preparado com muito carinho para sua diversão. Matérias engraçadas e emocionantes com a repórter Wanderleia Farias. Apresentação: Jacqueline Stefano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128143000 -0200" stop="20190128143500 -0200" channel="RIT">
+    <title lang="pt">Semeando a Fé</title>
+    <desc lang="pt">Aprenda a desfrutar das bênçãos de Deus. Todos os dias, antes do início de cada programa exibido na Rit, assista Semeando a Fé com o Missionário R.R.Soares(n)</desc>
+    <credits>
+      <actor>Missionário R.R.Soares</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128143500 -0200" stop="20190128160000 -0200" channel="RIT">
+    <title lang="pt">Consulta ao Doutor - Ao Vivo</title>
+    <desc lang="pt">Entrevista com Denise Luque(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128160000 -0200" stop="20190128161000 -0200" channel="RIT">
+    <title lang="pt">Jornal das 17h00 - Ao Vivo</title>
+    <desc lang="pt">Telejornal(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128161000 -0200" stop="20190128170000 -0200" channel="RIT">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">O objetivo do Show da Fé é levar o Evangelho de Jesus Cristo aos quatro cantos do mundo. Sustentado pela fé e contribuição dos patrocinadores, o programa dá frutos diariamente(n)</desc>
+    <credits>
+      <director>R. R. Soares</director>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128170000 -0200" stop="20190128174000 -0200" channel="RIT">
+    <title lang="pt">Jornal das 18h00 - Ao Vivo</title>
+    <desc lang="pt">Telejornal com 30 minutos de duração(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128174000 -0200" stop="20190128174500 -0200" channel="RIT">
+    <title lang="pt">Semeando a Fé</title>
+    <desc lang="pt">Aprenda a desfrutar das bênçãos de Deus. Todos os dias, antes do início de cada programa exibido na Rit, assista Semeando a Fé com o Missionário R.R.Soares(n)</desc>
+    <credits>
+      <actor>Missionário R.R.Soares</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128174500 -0200" stop="20190128182000 -0200" channel="RIT">
+    <title lang="pt">Clip RIT</title>
+    <desc lang="pt">O programa exibe clipes gospel nacional e internacional e, no programa os telespectadores escolhem os clipes que desejam ver, interagindo via e-mail e redes sociais(n)</desc>
+    <credits>
+      <director>Nilson Teréncio</director>
+      <actor>Fabiano Mota</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128182000 -0200" stop="20190128183000 -0200" channel="RIT">
+    <title lang="pt">Recado do Coração de Deus</title>
+    <desc lang="pt">Recado do Coração de Deus(n)</desc>
+    <credits>
+      <director>Andréa Rocha</director>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128183000 -0200" stop="20190128190000 -0200" channel="RIT">
+    <title lang="pt">Revista do Campo</title>
+    <desc lang="pt">Novidades, técnicas, tecnologia, criação, inovação, o Revista do Campo explora o mundo da agricultura e do agronegócio para deixar você e sua família, muito bem informada(n)</desc>
+    <credits>
+      <director>Nilson Teréncio</director>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128190000 -0200" stop="20190128213000 -0200" channel="RIT">
+    <title lang="pt">Fala, Amigo Noturno</title>
+    <desc lang="pt">Agora, também, às 20h00, venha receber o alimento da alma no programa Fala, Amigo Noturno(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128213000 -0200" stop="20190128223000 -0200" channel="RIT">
+    <title lang="pt">Jornal das 22h00 - Ao Vivo</title>
+    <desc lang="pt">Telejornal com as principais notícias do Brasil e do mundo com apresentação de Alexandre Giachetto e Liliam Coelho(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128223000 -0200" stop="20190128223500 -0200" channel="RIT">
+    <title lang="pt">Semeando a Fé</title>
+    <desc lang="pt">Aprenda a desfrutar das bênçãos de Deus. Todos os dias, antes do início de cada programa exibido na Rit, assista Semeando a Fé com o Missionário R.R.Soares(n)</desc>
+    <credits>
+      <actor>Missionário R.R.Soares</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128050000 -0200" stop="20190128100000 -0200" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128100000 -0200" stop="20190128105000 -0200" channel="Rede Brasil">
+    <title lang="pt">Papo em Dia</title>
+    <desc lang="pt">Entrevistas, gastronomia,entreterimento e variedades. Vamos ter muita conversa boa, com convidados especiais e um papo descontraído, embalados por pratos deliciosos preparados por chefes renomados(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128105000 -0200" stop="20190128111500 -0200" channel="Rede Brasil">
+    <title lang="pt">Curtas e Quentes</title>
+    <desc lang="pt">Notícias curtas e quentes sobre o mundo dos famosos, além de dicas culturais e entretenimento. De segunda à sexta, às 18h, com a apresentação irreverente de Décio Piccinini(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128111500 -0200" stop="20190128121500 -0200" channel="Rede Brasil">
+    <title lang="pt">Vida &amp; Estilo</title>
+    <desc lang="pt">Um show leve e descontraído que vai abordar os pilares necessários para se ter uma melhor qualidade de vida: alimentação, saúde física, mental e espiritual, financeira, familiar e de relacionamentos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128121500 -0200" stop="20190128161500 -0200" channel="Rede Brasil">
+    <title lang="pt">Concessionário - Quiz</title>
+    <desc lang="pt">Produção Independente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128161500 -0200" stop="20190128173000 -0200" channel="Rede Brasil">
+    <title lang="pt">A Tarde é Show - Ao Vivo</title>
+    <desc lang="pt">Moda, beleza, desfiles, esoterismo, saúde, direito, debates, povo fala permeiam a programação do A Tarde é Show com Nani Venâncio(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128173000 -0200" stop="20190128180000 -0200" channel="Rede Brasil">
+    <title lang="pt">Show da Saúde</title>
+    <desc lang="pt">Programa informecial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128180000 -0200" stop="20190128183000 -0200" channel="Rede Brasil">
+    <title lang="pt">RB Notícias - Ao Vivo</title>
+    <desc lang="pt">Com um formato ágil, dinâmico e moderno, o RB Notícias é o carro-chefe do departamento de Jornalismo da Rede Brasil e traz ao vivo e em primeira mão as manchetes do dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128183000 -0200" stop="20190128190000 -0200" channel="Rede Brasil">
+    <title lang="pt">Informecial Benessere</title>
+    <desc lang="pt">Programa Informecial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128190000 -0200" stop="20190128210000 -0200" channel="Rede Brasil">
+    <title lang="pt">Igreja Plenitude</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128210000 -0200" stop="20190128211000 -0200" channel="Rede Brasil">
+    <title lang="pt">Senpai TV</title>
+    <desc lang="pt">Programa Senpai TV(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128211000 -0200" stop="20190128220000 -0200" channel="Rede Brasil">
+    <title lang="pt">Crunchyroll TV</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128220000 -0200" stop="20190128230000 -0200" channel="Rede Brasil">
+    <title lang="pt">IRIS: Conflitos e Paixões</title>
+    <desc lang="pt">A premiada novela Coreana que conta a história do Serviço de Segurança Nacional, agentes que vão contra a misteriosa organização conhecida como IRIS(n)</desc>
+    <credits>
+      <director>Kim Kyu-tae</director>
+      <director>Yang Yun-ho</director>
+      <actor>Lee Byung-hun</actor>
+      <actor>Kim Tae-hee</actor>
+      <actor>Jung Joon-ho</actor>
+      <actor>Kim Seung-woo</actor>
+      <actor>Kim So-yeon e Choi Seung-hyun</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128000000 -0200" stop="20190128000100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128000100 -0200" stop="20190128010000 -0200" channel="Rede CNT">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para concientização espiritual levando a palavra de Deus até sua casa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128010000 -0200" stop="20190128010100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128010100 -0200" stop="20190128020000 -0200" channel="Rede CNT">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para concientização espiritual levando a palavra de Deus até sua casa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128020000 -0200" stop="20190128020100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128020100 -0200" stop="20190128023000 -0200" channel="Rede CNT">
+    <title lang="pt">Congresso Para o Sucesso</title>
+    <desc lang="pt">Esse programa é voltado para pessoas com dificuldades na vida financeira, que já passaram por problemas em diversas áreas em virtude do que enfrentaram diante da crise. Através do Congresso, aprenderam a usar a fé inteligente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128023000 -0200" stop="20190128023100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128023100 -0200" stop="20190128030000 -0200" channel="Rede CNT">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para concientização espiritual levando a palavra de Deus até sua casa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128030000 -0200" stop="20190128030100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128030100 -0200" stop="20190128040000 -0200" channel="Rede CNT">
+    <title lang="pt">Congresso Para o Sucesso</title>
+    <desc lang="pt">Esse programa é voltado para pessoas com dificuldades na vida financeira, que já passaram por problemas em diversas áreas em virtude do que enfrentaram diante da crise. Através do Congresso, aprenderam a usar a fé inteligente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128040000 -0200" stop="20190128040100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128040100 -0200" stop="20190128050000 -0200" channel="Rede CNT">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para concientização espiritual levando a palavra de Deus até sua casa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128050000 -0200" stop="20190128050100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128050100 -0200" stop="20190128060000 -0200" channel="Rede CNT">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas, desesperadas, pois as suas vidas chegaram no limite do sofrimento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128060000 -0200" stop="20190128060100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128060100 -0200" stop="20190128063000 -0200" channel="Rede CNT">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para concientização espiritual levando a palavra de Deus até sua casa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128063000 -0200" stop="20190128070000 -0200" channel="Rede CNT">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas, desesperadas, pois as suas vidas chegaram no limite do sofrimento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128070000 -0200" stop="20190128070100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128070100 -0200" stop="20190128080000 -0200" channel="Rede CNT">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas, desesperadas, pois as suas vidas chegaram no limite do sofrimento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128080000 -0200" stop="20190128080100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128080100 -0200" stop="20190128083000 -0200" channel="Rede CNT">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para concientização espiritual levando a palavra de Deus até sua casa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128083000 -0200" stop="20190128083100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128083100 -0200" stop="20190128090000 -0200" channel="Rede CNT">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para concientização espiritual levando a palavra de Deus até sua casa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128090000 -0200" stop="20190128090100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128090100 -0200" stop="20190128093000 -0200" channel="Rede CNT">
+    <title lang="pt">Congresso Para o Sucesso</title>
+    <desc lang="pt">Esse programa é voltado para pessoas com dificuldades na vida financeira, que já passaram por problemas em diversas áreas em virtude do que enfrentaram diante da crise. Através do Congresso, aprenderam a usar a fé inteligente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128093000 -0200" stop="20190128100000 -0200" channel="Rede CNT">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas, desesperadas, pois as suas vidas chegaram no limite do sofrimento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128100000 -0200" stop="20190128100100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128100100 -0200" stop="20190128103000 -0200" channel="Rede CNT">
+    <title lang="pt">Fatos Impossíveis</title>
+    <desc lang="pt">Com mensagens de fé e por meio do Jejum das Causas impossíveis, o Pastor Diniz mostra que, para Deus, nada é impossível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128103000 -0200" stop="20190128103100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128103100 -0200" stop="20190128110000 -0200" channel="Rede CNT">
+    <title lang="pt">Congresso Para o Sucesso</title>
+    <desc lang="pt">Esse programa é voltado para pessoas com dificuldades na vida financeira, que já passaram por problemas em diversas áreas em virtude do que enfrentaram diante da crise. Através do Congresso, aprenderam a usar a fé inteligente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128110000 -0200" stop="20190128120000 -0200" channel="Rede CNT">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Comandado por Renato Cardoso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128120000 -0200" stop="20190128130000 -0200" channel="Rede CNT">
+    <title lang="pt">Palavra Amiga do Bispo Macedo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128130000 -0200" stop="20190128130100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128130100 -0200" stop="20190128140000 -0200" channel="Rede CNT">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas, desesperadas, pois as suas vidas chegaram no limite do sofrimento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128140000 -0200" stop="20190128140100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128140100 -0200" stop="20190128150000 -0200" channel="Rede CNT">
+    <title lang="pt">A Última Pedra</title>
+    <desc lang="pt">Esse programa é voltado para pessoas que sofrem com qualquer tipo de vício, sendo o próprio viciado ou a família. Através do Tratamento para Cura dos Vícios as pessoas são curadas e tem a vida restaurada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128150000 -0200" stop="20190128150100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128150100 -0200" stop="20190128160000 -0200" channel="Rede CNT">
+    <title lang="pt">Congresso Para o Sucesso</title>
+    <desc lang="pt">Esse programa é voltado para pessoas com dificuldades na vida financeira, que já passaram por problemas em diversas áreas em virtude do que enfrentaram diante da crise. Através do Congresso, aprenderam a usar a fé inteligente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128160000 -0200" stop="20190128160100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128160100 -0200" stop="20190128170000 -0200" channel="Rede CNT">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para concientização espiritual levando a palavra de Deus até sua casa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128170000 -0200" stop="20190128170100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128170100 -0200" stop="20190128173000 -0200" channel="Rede CNT">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para concientização espiritual levando a palavra de Deus até sua casa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128173000 -0200" stop="20190128180000 -0200" channel="Rede CNT">
+    <title lang="pt">A Última Pedra</title>
+    <desc lang="pt">Esse programa é voltado para pessoas que sofrem com qualquer tipo de vício, sendo o próprio viciado ou a família. Através do Tratamento para Cura dos Vícios as pessoas são curadas e tem a vida restaurada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128180000 -0200" stop="20190128180100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128180100 -0200" stop="20190128183000 -0200" channel="Rede CNT">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para concientização espiritual levando a palavra de Deus até sua casa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128183000 -0200" stop="20190128190000 -0200" channel="Rede CNT">
+    <title lang="pt">SOS Espiritual</title>
+    <desc lang="pt">Pastores e bispos atendem e orientam as pessoas que ligam aflitas, desesperadas, pois as suas vidas chegaram no limite do sofrimento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128190000 -0200" stop="20190128190100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128190100 -0200" stop="20190128200000 -0200" channel="Rede CNT">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para concientização espiritual levando a palavra de Deus até sua casa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128200000 -0200" stop="20190128200100 -0200" channel="Rede CNT">
+    <title lang="pt">CNT News</title>
+    <desc lang="pt">CNT NEWS, o boletim de noticias que a cada hora abre suas lentes para mostrar a você a realidade dos fatos com a opinião de quem está ligado em todas as questões que interessam a você(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128200100 -0200" stop="20190128210000 -0200" channel="Rede CNT">
+    <title lang="pt">Escola do Amor Responde</title>
+    <desc lang="pt">Um dos grandes diferenciais é a interatividade dos apresentadores com o público, através do e-mail, facebook, twitter e até mesmo exibindo vídeos-pergunta, enviadas pelos telespectadores(n)</desc>
+    <credits>
+      <actor>Cris e Renato Cardoso</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128210000 -0200" stop="20190128211000 -0200" channel="Rede CNT">
+    <title lang="pt">CNT Notícias</title>
+    <desc lang="pt">Imagine o que acontece a cada minuto na maior cidade da América Latina e em toda a sua região. Decisões políticas, ocorrências policiais, movimentos culturais, moda, decoração, esportes e outros fatos que margeiam a curiosidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128211000 -0200" stop="20190128213000 -0200" channel="Rede CNT">
+    <title lang="pt">CNT Esporte</title>
+    <desc lang="pt">Todo fim de noite o torcedor brasileiro vai para a cama inteirado sobre as últimas movimentações que envolvem o seu time. Preparativos para a rodada, treinos, alterações na escalação e a palavra do técnico(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128213000 -0200" stop="20190128220500 -0200" channel="Rede CNT">
+    <title lang="pt">CNT Jornal</title>
+    <desc lang="pt">O CNT Jornal conta com um jornalismo independente, de conteúdo e alta qualidade com sua competente equipe de profissionais da noticia que diariamente levam até você os fatos com total comprometimento com a verdade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128220500 -0200" stop="20190128230000 -0200" channel="Rede CNT">
+    <title lang="pt">Radar</title>
+    <desc lang="pt">Um programa que fala de turismo de negócios e foi criado pelo publicitário Octavio Neto, em 1995(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128230000 -0200" stop="20190128233000 -0200" channel="Rede CNT">
+    <title lang="pt">Ponto de Luz</title>
+    <desc lang="pt">Programa religioso voltado para concientização espiritual levando a palavra de Deus até sua casa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128000000 -0200" stop="20190128020000 -0200" channel="RBI TV">
+    <title lang="pt">Notícias em Foco</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128020000 -0200" stop="20190128030000 -0200" channel="RBI TV">
+    <title lang="pt">Opinião Livre</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128030000 -0200" stop="20190128043000 -0200" channel="RBI TV">
+    <title lang="pt">Mega Ofertas</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128043000 -0200" stop="20190128060000 -0200" channel="RBI TV">
+    <title lang="pt">Duas Na Tri</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128060000 -0200" stop="20190128080000 -0200" channel="RBI TV">
+    <title lang="pt">Notícias em Foco</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128080000 -0200" stop="20190128090000 -0200" channel="RBI TV">
+    <title lang="pt">Clipes Musicais</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128090000 -0200" stop="20190128093000 -0200" channel="RBI TV">
+    <title lang="pt">Opinião Livre</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128093000 -0200" stop="20190128130000 -0200" channel="RBI TV">
+    <title lang="pt">Mega Ofertas</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128130000 -0200" stop="20190128160000 -0200" channel="RBI TV">
+    <title lang="pt">Top Game</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128160000 -0200" stop="20190128163000 -0200" channel="RBI TV">
+    <title lang="pt">Opinião Livre</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128163000 -0200" stop="20190128183000 -0200" channel="RBI TV">
+    <title lang="pt">Mega Ofertas</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128183000 -0200" stop="20190128184500 -0200" channel="RBI TV">
+    <title lang="pt">American Soluções</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128184500 -0200" stop="20190128190000 -0200" channel="RBI TV">
+    <title lang="pt">Clipes Musicais</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128190000 -0200" stop="20190128210000 -0200" channel="RBI TV">
+    <title lang="pt">Notícias em Foco</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128210000 -0200" stop="20190128230000 -0200" channel="RBI TV">
+    <title lang="pt">Mega Ofertas</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128230000 -0200" stop="20190128233000 -0200" channel="RBI TV">
+    <title lang="pt">Mudança de Vida</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128010000 -0200" stop="20190128013000 -0200" channel="Rede Vida">
+    <title lang="pt">A Igreja Pelo Mundo</title>
+    <desc lang="pt">Reflexões e matérias sobre o trabalho que a igreja desenvolve para as pessoas carentes e necessitadas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128013000 -0200" stop="20190128015500 -0200" channel="Rede Vida">
+    <title lang="pt">Kerigma</title>
+    <desc lang="pt">Kerigma é o nome brasileiro de(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128015500 -0200" stop="20190128020000 -0200" channel="Rede Vida">
+    <title lang="pt">Terço Bizantino</title>
+    <desc lang="pt">Terço celebrado todos os dias pelo Padre Marcelo Rossi(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128020000 -0200" stop="20190128040000 -0200" channel="Rede Vida">
+    <title lang="pt">Conta Comigo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128040000 -0200" stop="20190128043000 -0200" channel="Rede Vida">
+    <title lang="pt">Telecurso</title>
+    <desc lang="pt">Por meio das matérias curriculares, o cotidiano é posto no centro das ações pedagógicas. É um espaço colaborativo de aprendizagem e entretenimento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128043000 -0200" stop="20190128044500 -0200" channel="Rede Vida">
+    <title lang="pt">Mãe Maria</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128044500 -0200" stop="20190128050000 -0200" channel="Rede Vida">
+    <title lang="pt">Terço Bizantino</title>
+    <desc lang="pt">Terço celebrado todos os dias pelo Padre Marcelo Rossi(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128050000 -0200" stop="20190128052500 -0200" channel="Rede Vida">
+    <title lang="pt">Santo Terço dos Filhos do Pai Eterno</title>
+    <desc lang="pt">Os filhos do Pai Eterno têm agora mais um horário para rezar. O(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128052500 -0200" stop="20190128053000 -0200" channel="Rede Vida">
+    <title lang="pt">O Pão Nosso</title>
+    <desc lang="pt">Reflexões do Pe. Fernando J. C. Cardoso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128053000 -0200" stop="20190128055500 -0200" channel="Rede Vida">
+    <title lang="pt">Encontro com Cristo</title>
+    <desc lang="pt">Um dos grandes pregadores e escritores da atualidade, o Padre Alberto Gambarini apresenta o(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128055500 -0200" stop="20190128064500 -0200" channel="Rede Vida">
+    <title lang="pt">Missa no Santuário do Divino Pai Eterno - Vivo</title>
+    <desc lang="pt">O santuário do Divino Pai Eterno, em Trindade (GO), vem se tornando uma das basílicas mais importantes do Brasil. A missa chega às casas dos fiéis ao vivo pela RedeVida de Televisão(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128064500 -0200" stop="20190128070000 -0200" channel="Rede Vida">
+    <title lang="pt">Programa do Pai Eterno</title>
+    <desc lang="pt">Fique sabendo sobre a obra do Divino Pai Eterno através de entrevistas e matérias que falarão tudo sobre a história, a missão e o futuro do projeto do Divino Pai Eterno(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128070000 -0200" stop="20190128070500 -0200" channel="Rede Vida">
+    <title lang="pt">Terço Bizantino</title>
+    <desc lang="pt">Terço celebrado todos os dias pelo Padre Marcelo Rossi(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128070500 -0200" stop="20190128072500 -0200" channel="Rede Vida">
+    <title lang="pt">Mãe dos Aflitos</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128072500 -0200" stop="20190128073000 -0200" channel="Rede Vida">
+    <title lang="pt">A Cura Pela Palavra</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128073000 -0200" stop="20190128080000 -0200" channel="Rede Vida">
+    <title lang="pt">Novena do Perpétuo Socorro</title>
+    <desc lang="pt">Os fiéis acompanham os momentos de oração pela graça que desejam alcançar(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128080000 -0200" stop="20190128090000 -0200" channel="Rede Vida">
+    <title lang="pt">Missa de Aparecida</title>
+    <desc lang="pt">A Eucaristia é o centro da vida cristã. Nela o Povo de Deus encontra-se pessoalmente com Jesus Cristo Redentor, ouvindo sua Palavra e alimentando-se do seu Corpo e Sangue(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128090000 -0200" stop="20190128093000 -0200" channel="Rede Vida">
+    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
+    <desc lang="pt">Comece o dia mais perto do Pai. Padre Robson de Oliveira leva você a um momento de reflexão e experiência de fé. Direto da Basílica de Trindade, novena dos filhos do pai eterno(n)</desc>
+    <credits>
+      <actor>Padre Robson de Oliveira</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128093000 -0200" stop="20190128095000 -0200" channel="Rede Vida">
+    <title lang="pt">Programa do Pai Eterno</title>
+    <desc lang="pt">Fique sabendo sobre a obra do Divino Pai Eterno através de entrevistas e matérias que falarão tudo sobre a história, a missão e o futuro do projeto do Divino Pai Eterno(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128095000 -0200" stop="20190128101500 -0200" channel="Rede Vida">
+    <title lang="pt">Ateliê na TV</title>
+    <desc lang="pt">De segunda a sexta-feira, o publicitário Dotan Mayo ensina o passo a passo de rápidos artesanatos que mantêm os telespectadores atualizados sobre as novidades e tendências do mercado(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128101500 -0200" stop="20190128110000 -0200" channel="Rede Vida">
+    <title lang="pt">Escolhas da Vida</title>
+    <desc lang="pt">Para quem vive com pressa, que se sente aflito com as notícias do mundo. Para quem não sabe qual caminho escolher. Dalcides Biscalquim apresenta de segunda a sexta-feira o programa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128110000 -0200" stop="20190128113000 -0200" channel="Rede Vida">
+    <title lang="pt">Rosário da Vida</title>
+    <desc lang="pt">A RedeVida junto com o Padre Juarez de Castro, convidam você a oferecer diariamente uma rosa para Maria, no programa Rosário da Vida. Venha, com a RedeVida dedicar mais uma parte do seu dia a Deus(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128113000 -0200" stop="20190128133000 -0200" channel="Rede Vida">
+    <title lang="pt">Vida Melhor</title>
+    <desc lang="pt">Artistas de todas as áreas, especialistas em saúde, técnicos de diversos segmentos estão em quadros diferenciados, abordando assuntos de saúde, esporte, alimentação e cultura(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128133000 -0200" stop="20190128140000 -0200" channel="Rede Vida">
+    <title lang="pt">Novena do Perpétuo Socorro</title>
+    <desc lang="pt">Os fiéis acompanham os momentos de oração pela graça que desejam alcançar(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128140000 -0200" stop="20190128151500 -0200" channel="Rede Vida">
+    <title lang="pt">Hora da Família</title>
+    <desc lang="pt">Um programa com novena, reflexão, mensagens especiais, interatividade, músicas e oração... tudo isso para as melhores e mais importantes pessoas: você e sua família(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128151500 -0200" stop="20190128160000 -0200" channel="Rede Vida">
+    <title lang="pt">Escolhas da Vida</title>
+    <desc lang="pt">Para quem vive com pressa, que se sente aflito com as notícias do mundo. Para quem não sabe qual caminho escolher. Dalcides Biscalquim apresenta de segunda a sexta-feira o programa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128160000 -0200" stop="20190128163000 -0200" channel="Rede Vida">
+    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
+    <desc lang="pt">Comece o dia mais perto do Pai. Padre Robson de Oliveira leva você a um momento de reflexão e experiência de fé. Direto da Basílica de Trindade, novena dos filhos do pai eterno(n)</desc>
+    <credits>
+      <actor>Padre Robson de Oliveira</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128163000 -0200" stop="20190128165000 -0200" channel="Rede Vida">
+    <title lang="pt">Encontro com Cristo</title>
+    <desc lang="pt">Um dos grandes pregadores e escritores da atualidade, o Padre Alberto Gambarini apresenta o(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128165000 -0200" stop="20190128170000 -0200" channel="Rede Vida">
+    <title lang="pt">Terço Bizantino</title>
+    <desc lang="pt">Terço celebrado todos os dias pelo Padre Marcelo Rossi(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128170000 -0200" stop="20190128173000 -0200" channel="Rede Vida">
+    <title lang="pt">O Santo Terço</title>
+    <desc lang="pt">Reúna sua família em frente à televisão para dedicar parte do seu dia a Deus(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128173000 -0200" stop="20190128180000 -0200" channel="Rede Vida">
+    <title lang="pt">JCTV</title>
+    <desc lang="pt">Notícias da Igreja no Brasil e no Mundo. A atualidade, o dinamismo e a valorização dos acontecimentos primordiais da Igreja Católica em todo o mundo. Meio importantíssimo de promoção e divulgação dos fatos da comunidade cristã(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128180000 -0200" stop="20190128181000 -0200" channel="Rede Vida">
+    <title lang="pt">Minuto de Reflexão</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128181000 -0200" stop="20190128190000 -0200" channel="Rede Vida">
+    <title lang="pt">Missa do Santuário da Vida</title>
+    <desc lang="pt">O santuário é um espaço que a REDEVIDA abriu para receber não só os fiéis que acompanham a Missa pela televisão, mas também caravanas, equipes de celebração e ministérios de todo o Brasil(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128190000 -0200" stop="20190128193000 -0200" channel="Rede Vida">
+    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
+    <desc lang="pt">Comece o dia mais perto do Pai. Padre Robson de Oliveira leva você a um momento de reflexão e experiência de fé. Direto da Basílica de Trindade, novena dos filhos do pai eterno(n)</desc>
+    <credits>
+      <actor>Padre Robson de Oliveira</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128193000 -0200" stop="20190128210000 -0200" channel="Rede Vida">
+    <title lang="pt">Tribuna Independente</title>
+    <desc lang="pt">O(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128210000 -0200" stop="20190128220000 -0200" channel="Rede Vida">
+    <title lang="pt">Especial</title>
+    <desc lang="pt">Um especial musical para alegrar sua noite(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128220000 -0200" stop="20190128223000 -0200" channel="Rede Vida">
+    <title lang="pt">Jornal da Vida</title>
+    <desc lang="pt">O(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128223000 -0200" stop="20190128225000 -0200" channel="Rede Vida">
+    <title lang="pt">Vida Esportiva</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128225000 -0200" stop="20190128225500 -0200" channel="Rede Vida">
+    <title lang="pt">Terço Bizantino</title>
+    <desc lang="pt">Terço celebrado todos os dias pelo Padre Marcelo Rossi(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128225500 -0200" stop="20190128230000 -0200" channel="Rede Vida">
+    <title lang="pt">Minuto de Reflexão</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128000000 -0200" stop="20190128020000 -0200" channel="Aparecida">
+    <title lang="pt">Puriflora</title>
+    <desc lang="pt">Infomerciais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128020000 -0200" stop="20190128024500 -0200" channel="Aparecida">
+    <title lang="pt">Telecurso Médio e Fundamental</title>
+    <desc lang="pt">Amplie seus conhecimentos e habilidades com o mais tradicional programa de TV voltado para a educação e qualificação profissional, o Telecurso. Possui recurso CC(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128024500 -0200" stop="20190128025500 -0200" channel="Aparecida">
+    <title lang="pt">Terço de Aparecida</title>
+    <desc lang="pt">Oração Mariana que apresenta a Vida de Jesus em cada mistério meditado e contemplado(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128025500 -0200" stop="20190128031500 -0200" channel="Aparecida">
+    <title lang="pt">Discipulus</title>
+    <desc lang="pt">Série com reflexões voltadas à formação espiritual e à conscientização de nossa missão no mundo como cristãos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128031500 -0200" stop="20190128033000 -0200" channel="Aparecida">
+    <title lang="pt">Ângelus</title>
+    <desc lang="pt">Ângelus com o Papa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128033000 -0200" stop="20190128043000 -0200" channel="Aparecida">
+    <title lang="pt">Terço de Fátima</title>
+    <desc lang="pt">O Terço de Fátima acontece todos os dias e é rezado diretamente da Capelinha das Aparições, que fica junto ao Santuário de Fátima, em Portugal(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128043000 -0200" stop="20190128044500 -0200" channel="Aparecida">
+    <title lang="pt">Terço de Fátima</title>
+    <desc lang="pt">O Terço de Fátima acontece todos os dias e é rezado diretamente da Capelinha das Aparições, que fica junto ao Santuário de Fátima, em Portugal(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128044500 -0200" stop="20190128051500 -0200" channel="Aparecida">
+    <title lang="pt">Fortes na Fé</title>
+    <desc lang="pt">Retrata a a realidade do trabalho redentorista realizado em várias partes do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128051500 -0200" stop="20190128054500 -0200" channel="Aparecida">
+    <title lang="pt">Terço de Aparecida</title>
+    <desc lang="pt">Oração Mariana que apresenta a Vida de Jesus em cada mistério meditado e contemplado(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128054500 -0200" stop="20190128064500 -0200" channel="Aparecida">
+    <title lang="pt">Missa de Aparecida: Capela São José</title>
+    <desc lang="pt">Acompanhe, ao vivo, a missa de Aparecida e o Devocional, direto da Capela São José. Possui recurso CC(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128064500 -0200" stop="20190128065500 -0200" channel="Aparecida">
+    <title lang="pt">Aparecida Interessa ao Brasil</title>
+    <desc lang="pt">Sob o comando de Daniele Bittencourt, o departamento de jornalismo da TV Aparecida apresenta os principais acontecimentos do maior santuário mariano do mundo e entrevistas com temas especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128065500 -0200" stop="20190128074000 -0200" channel="Aparecida">
+    <title lang="pt">Bem-Vindo, Romeiro - Ao Vivo</title>
+    <desc lang="pt">José Eymard e Bianca apresentam o universo do romeiro e levam o Santuário Nacional de Aparecida até a sua casa. Possui recurso CC(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128074000 -0200" stop="20190128075000 -0200" channel="Aparecida">
+    <title lang="pt">Aparecida Interessa ao Brasil</title>
+    <desc lang="pt">Sob o comando de Daniele Bittencourt, o departamento de jornalismo da TV Aparecida apresenta os principais acontecimentos do maior santuário mariano do mundo e entrevistas com temas especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128075000 -0200" stop="20190128080000 -0200" channel="Aparecida">
+    <title lang="pt">Ao Redor do Altar - Ao Vivo</title>
+    <desc lang="pt">Ao redor do altar. Coloque suas intenções para a Missa de Aparecida, direto do Santuário Nacional(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128080000 -0200" stop="20190128090000 -0200" channel="Aparecida">
+    <title lang="pt">Missa de Aparecida - Santuário Nacional - Ao Vivo</title>
+    <desc lang="pt">Acompanhe a missa de Aparecida, ao vivo, direto do Santuário Nacional(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128090000 -0200" stop="20190128110000 -0200" channel="Aparecida">
+    <title lang="pt">Manhã Leve - Ao Vivo</title>
+    <desc lang="pt">Maria Cândida leva até sua casa um programa com um mix de variedades que valoriza histórias e experiências de pessoas reais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128110000 -0200" stop="20190128113000 -0200" channel="Aparecida">
+    <title lang="pt">Brasil Esportes - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do esporte você acompanha na programação da TV Aparecida(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128113000 -0200" stop="20190128120000 -0200" channel="Aparecida">
+    <title lang="pt">TJ Aparecida - Ao Vivo</title>
+    <desc lang="pt">Acompanhe as principais notícias da igreja, do Brasil e do mundo. Mantenha-se informado através de um jornalismo de qualidade. Possui recurso CC(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128120000 -0200" stop="20190128130000 -0200" channel="Aparecida">
+    <title lang="pt">Vida com Arte</title>
+    <desc lang="pt">Um programa feminino que, entre diversas novidades, abre espaço para o artesanato, com a participação dos mais renomados artesãos do país(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128130000 -0200" stop="20190128140000 -0200" channel="Aparecida">
+    <title lang="pt">Chefs em Ação</title>
+    <desc lang="pt">Os chefs Leonardo Roncon e Rafael Barros deixam o seu dia muito mais saboroso. Com uma abordagem completa e pioneira, a dupla ensina receitas práticas e ousadas que vão desde o prato de entrada a sobremesas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128140000 -0200" stop="20190128141500 -0200" channel="Aparecida">
+    <title lang="pt">Consagração</title>
+    <desc lang="pt">Papa Francisco celebra a consagração à Nossa Senhora(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128141500 -0200" stop="20190128163000 -0200" channel="Aparecida">
+    <title lang="pt">Santa Receita - Ao Vivo</title>
+    <desc lang="pt">Claudete Troiano recebe convidados especiais e fala sobre saúde, moda, comportamento, artesantos, receitas e muito mais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128163000 -0200" stop="20190128163500 -0200" channel="Aparecida">
+    <title lang="pt">Mensagem de Fé</title>
+    <desc lang="pt">O arcebispo de Aparecida, dom Orlando Brandes, faz uma pequena reflexão da Palavra de Deus Três minutos durante o seu dia para uma profunda reflexão de vida(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128163500 -0200" stop="20190128170000 -0200" channel="Aparecida">
+    <title lang="pt">Terço de Aparecida</title>
+    <desc lang="pt">Oração Mariana que apresenta a Vida de Jesus em cada mistério meditado e contemplado(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128170000 -0200" stop="20190128180000 -0200" channel="Aparecida">
+    <title lang="pt">Missa de Aparecida - Matriz Basílica</title>
+    <desc lang="pt">Santa Missa ao vivo diretamente da Matriz Basílica de Aparecida(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128180000 -0200" stop="20190128190000 -0200" channel="Aparecida">
+    <title lang="pt">Coração Esmeralda</title>
+    <desc lang="pt">Ramón quer impedir João André de se casar com Vanessa. Quando ela se encontra num bar com Branca, pergunta como chegar a um lugar chamado Las Vegas Tropical, onde Vanessa pensou em fazer o casamento(n)</desc>
+    <credits>
+      <actor>Irene Esser</actor>
+      <actor>Luis Gerónimo Abreu</actor>
+      <actor>Mimi Lazo</actor>
+      <actor>Jean Carlo Simancas</actor>
+      <actor>Dora Mazzone</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">E105</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190128190000 -0200" stop="20190128200000 -0200" channel="Aparecida">
+    <title lang="pt">Entre Amigos</title>
+    <desc lang="pt">O apresentador César Galones recebe grandes nomes da cultura sertaneja para um bate papo entre amigos ao som da viola e com o melhor da culinária caipira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128200000 -0200" stop="20190128210000 -0200" channel="Aparecida">
+    <title lang="pt">Odair Terra: Melhores Momentos</title>
+    <desc lang="pt">Com um programa que é conhecido como a casa da boa música sertaneja, Odair Terra traz entrevistas e muita música, regado sempre com grandes sucessos do sertanejo(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128210000 -0200" stop="20190128213000 -0200" channel="Aparecida">
+    <title lang="pt">Pet &amp; Cia</title>
+    <desc lang="pt">Voltado para toda família, Bebel Ambrósio traz curiosidades e informações importantes sobre como cuidar do seu animal de estimação(n)</desc>
+    <credits>
+      <actor>Bebel Ambrósio</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128213000 -0200" stop="20190128222500 -0200" channel="Aparecida">
+    <title lang="pt">Coração Esmeralda</title>
+    <desc lang="pt">Ramón quer impedir João André de se casar com Vanessa. Quando ela se encontra num bar com Branca, pergunta como chegar a um lugar chamado Las Vegas Tropical, onde Vanessa pensou em fazer o casamento(n)</desc>
+    <credits>
+      <actor>Irene Esser</actor>
+      <actor>Luis Gerónimo Abreu</actor>
+      <actor>Mimi Lazo</actor>
+      <actor>Jean Carlo Simancas</actor>
+      <actor>Dora Mazzone</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">E105</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190128222500 -0200" stop="20190128223000 -0200" channel="Aparecida">
+    <title lang="pt">Mensagem de Fé</title>
+    <desc lang="pt">O arcebispo de Aparecida, dom Orlando Brandes, faz uma pequena reflexão da Palavra de Deus Três minutos durante o seu dia para uma profunda reflexão de vida(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128010000 -0200" stop="20190128013000 -0200" channel="Rede TV">
+    <title lang="pt">Bola na Rede</title>
+    <desc lang="pt">Fernando Fontana comanda uma atração descontraída que anuncia os principais lances dos campos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128013000 -0200" stop="20190128020000 -0200" channel="Rede TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190128020000 -0200" stop="20190128040000 -0200" channel="Rede TV">
+    <title lang="pt">Igreja da Graça, Nosso Lar</title>
+    <desc lang="pt">Programação diária da Igreja da Graça(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128040000 -0200" stop="20190128073000 -0200" channel="Rede TV">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128073000 -0200" stop="20190128080000 -0200" channel="Rede TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190128080000 -0200" stop="20190128083000 -0200" channel="Rede TV">
+    <title lang="pt">Calculadora</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128083000 -0200" stop="20190128094500 -0200" channel="Rede TV">
+    <title lang="pt">Você na TV</title>
+    <desc lang="pt">'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190128094500 -0200" stop="20190128110000 -0200" channel="Rede TV">
+    <title lang="pt">Edu Guedes e Você</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128110000 -0200" stop="20190128120000 -0200" channel="Rede TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190128120000 -0200" stop="20190128140000 -0200" channel="Rede TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128140000 -0200" stop="20190128160000 -0200" channel="Rede TV">
+    <title lang="pt">A Tarde é Sua</title>
+    <desc lang="pt">Sonia Abrão exibe entrevistas exclusivas, fala sobre comportamento e traz muita informação(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190128160000 -0200" stop="20190128170000 -0200" channel="Rede TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128170000 -0200" stop="20190128182500 -0200" channel="Rede TV">
+    <title lang="pt">Tricotando</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128182500 -0200" stop="20190128193000 -0200" channel="Rede TV">
+    <title lang="pt">RedeTV News</title>
+    <desc lang="pt">O REDE TV NEWS traz os principais acontecimentos do Brasil e do mundo, com qualidade, alta tecnologia e transmissão 100% HD Digital, com a participação de correspondentes internacionais e os melhores comentaristas do Brasil(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128193000 -0200" stop="20190128203000 -0200" channel="Rede TV">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128203000 -0200" stop="20190128214500 -0200" channel="Rede TV">
+    <title lang="pt">TV Fama</title>
+    <desc lang="pt">O programa traz notícias de celebridades e bastidores do mundo da fama(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190128214500 -0200" stop="20190128230000 -0200" channel="Rede TV">
+    <title lang="pt">SuperPop</title>
+    <desc lang="pt">Apresentado pela belíssima Luciana Gimenez, o SuperPop é um programa cheio de bom humor, polêmica e curiosidades,trazendo a cada dia um assunto diferente que vai fazer você ficar grudado na televisão(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190128001500 -0200" stop="20190128050000 -0200" channel="RECORD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128050000 -0200" stop="20190128053000 -0200" channel="RECORD">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128053000 -0200" stop="20190128060000 -0200" channel="RECORD">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128060000 -0200" stop="20190128073000 -0200" channel="RECORD">
+    <title lang="pt">SP no Ar</title>
+    <desc lang="pt">O jornal apresenta as primeiras notícias do dia, o trânsito da cidade, os destaques da madrugada, adiantando o que será destaque no decorrer do dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128073000 -0200" stop="20190128090000 -0200" channel="RECORD">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128090000 -0200" stop="20190128110000 -0200" channel="RECORD">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128110000 -0200" stop="20190128140000 -0200" channel="RECORD">
+    <title lang="pt">Balanço Geral SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128140000 -0200" stop="20190128144500 -0200" channel="RECORD">
+    <title lang="pt">Bela, a Feia</title>
+    <desc lang="pt">Bela, a Feia conta a história de Anabela Palhares, uma mulher modesta de 26 anos. A moça não tem muitos amigos, somente Luzia e Hortência, com quem compartilha seus sentimentos(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190128144500 -0200" stop="20190128154500 -0200" channel="RECORD">
+    <title lang="pt">Essas Mulheres</title>
+    <desc lang="pt">A novela se passa na cidade do RJ. Três amigas, Aurélia, Lúcia e Mila, freqüentam aulas de uma professora progressista que ensina francês e música. O destino acaba separando-as, mas elas continuam ligadas(n)</desc>
+    <credits>
+      <director>João Camargo</director>
+      <director>Flávio Colatrello Jr</director>
+      <actor>Paulo Gorgulho</actor>
+      <actor>Ana Rosa</actor>
+      <actor>Ewerton de Castro</actor>
+      <actor>Christine Fernandes</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128154500 -0200" stop="20190128170000 -0200" channel="RECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128170000 -0200" stop="20190128175000 -0200" channel="RECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128175000 -0200" stop="20190128185000 -0200" channel="RECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128185000 -0200" stop="20190128194500 -0200" channel="RECORD">
+    <title lang="pt">A Terra Prometida</title>
+    <desc lang="pt">Após a morte de Moisés, Josué é o novo líder dos hebreus. Ele é um guerreiro experiente, dotado de coragem, determinação e de uma fé poderosa. Mas não é tarefa fácil conduzir um povo ao seu destino(n)</desc>
+    <credits>
+      <actor>Sidney Sampaio</actor>
+      <actor>Alexandre Slaviero</actor>
+      <actor>Altair Rodrigues</actor>
+      <actor>Ana Barroso</actor>
+      <actor>Andre Ramiro</actor>
+      <actor>Amando Amaral</actor>
+      <actor>Bernardo Velasco</actor>
+      <actor>Beth Goulart</actor>
+      <actor>Brenda Haddad</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190128194500 -0200" stop="20190128204500 -0200" channel="RECORD">
+    <title lang="pt">Jesus</title>
+    <desc lang="pt">A trama irá mostrar a vida e época de Jesus como se estivéssemos lá, no momento em que Ele andava pela Terra(n)</desc>
+    <credits>
+      <director>Edgard Miranda</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190128204500 -0200" stop="20190128213000 -0200" channel="RECORD">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190128213000 -0200" stop="20190128231500 -0200" channel="RECORD">
+    <title lang="pt">Repórter Record Investigação</title>
+    <desc lang="pt">Denúncias exclusivas, temas polêmicos e grandes reportagens. O Repórter Record Investigação tem a missão de desvendar temas de interesse público(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
